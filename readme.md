@@ -12,54 +12,64 @@ This is a cumulative song of unknown origin.
 
 This is one of many common variants.
 
-```I know an old lady who swallowed a fly.
-I don't know why she swallowed the fly. Perhaps she'll die.
-
-I know an old lady who swallowed a spider.
-It wriggled and jiggled and tickled inside her.
-She swallowed the spider to catch the fly.
-I don't know why she swallowed the fly. Perhaps she'll die.
-
-I know an old lady who swallowed a bird.
-How absurd to swallow a bird!
-She swallowed the bird to catch the spider that wriggled and jiggled and tickled inside her.
-She swallowed the spider to catch the fly.
-I don't know why she swallowed the fly. Perhaps she'll die.
-
-I know an old lady who swallowed a cat.
-Imagine that, to swallow a cat!
-She swallowed the cat to catch the bird.
-She swallowed the bird to catch the spider that wriggled and jiggled and tickled inside her.
-She swallowed the spider to catch the fly.
-I don't know why she swallowed the fly. Perhaps she'll die.
-
-I know an old lady who swallowed a dog.
-What a hog, to swallow a dog!
-She swallowed the dog to catch the cat.
-She swallowed the cat to catch the bird.
-She swallowed the bird to catch the spider that wriggled and jiggled and tickled inside her.
-She swallowed the spider to catch the fly.
-I don't know why she swallowed the fly. Perhaps she'll die.
-
-I know an old lady who swallowed a goat.
-Just opened her throat and swallowed a goat!
-She swallowed the goat to catch the dog.
-She swallowed the dog to catch the cat.
-She swallowed the cat to catch the bird.
-She swallowed the bird to catch the spider that wriggled and jiggled and tickled inside her.
-She swallowed the spider to catch the fly.
-I don't know why she swallowed the fly. Perhaps she'll die.
-
-I know an old lady who swallowed a cow.
-I don't know how she swallowed a cow!
-She swallowed the cow to catch the goat.
-She swallowed the goat to catch the dog.
-She swallowed the dog to catch the cat.
-She swallowed the cat to catch the bird.
-She swallowed the bird to catch the spider that wriggled and jiggled and tickled inside her.
-She swallowed the spider to catch the fly.
-I don't know why she swallowed the fly. Perhaps she'll die.
-
-I know an old lady who swallowed a horse.
-She's dead, of course!```
- 
+```
+There's a hole in the bottom of the sea,
+There's a hole in the bottom of the sea,
+There's a hole, there's a hole,
+There's a hole in the bottom of the sea.
+There's a log in the hole
+In the bottom of the sea,
+There's a log in the hole
+In the bottom of the sea,
+There's a log, there's a log,
+There's a log in the hole
+In the bottom of the sea.
+There's a branch on the log in the hole
+In the bottom of the sea,
+There's a branch on the log in the hole
+In the bottom of the sea,
+There's a branch, there's a branch,
+There's a branch on the log in the hole
+In the bottom of the sea.
+There's a bump on the branch on the log
+In the hole in the bottom of the sea,
+There's a bump on the branch on the log
+In the hole in the bottom of the sea,
+There's a bump, there's a bump,
+There's a bump on the branch on the log
+In the hole in the bottom of the sea.
+There's a frog on the bump on the branch
+On the log in the hole in the bottom of the sea,
+There's a frog on the bump on the branch
+On the log in the hole in the bottom of the sea,
+There's a frog, there's a frog,
+There's a frog on the bump on the branch
+On the log in the hole in the bottom of the sea.
+There's a tail on the frog on the bump on the branch
+On the log in the hole in the bottom of the sea,
+There's a tail on the frog on the bump on the branch
+On the log in the hole in the bottom of the sea,
+There's a tail, there's a tail,
+There's a tail on the frog on the bump on the branch
+On the log in the hole in the bottom of the sea.
+There's a speck on the tail on the frog
+On the bump on the branch
+On the log in the hole in the bottom of the sea,
+There's a speck on the tail on the frog
+On the bump on the branch
+On the log in the hole in the bottom of the sea,
+There's a speck, there's a speck,
+There's a speck on the tail on the frog
+On the bump on the branch on the log
+In the hole in the bottom of the sea.
+There's a fleck on the speck on the tail
+On the frog on the bump on the branch
+On the log in the hole in the bottom of the sea,
+There's a fleck on the speck on the tail
+On the frog on the bump On the branch
+On the log in the hole in the bottom of the sea,
+There's a fleck, there's a fleck,
+There's a fleck on the speck on the tail
+On the frog on the bump on the branch
+On the log in the hole in the bottom of the sea.
+```
