@@ -1,7 +1,7 @@
 # food-chain
 Based on [Exercism](https://exercism.io/) project of the same name.
 
-## Your assignment is to generate the lyrics of the song 'I Know an Old Lady Who Swallowed a Fly'.
+## Your assignment is to generate the lyrics of the song 'There's a Hole in the Bottom of the Sea'.
 
 While you could copy/paste the lyrics, or read them from a file, this problem is much more interesting if you approach it algorithmically, by writing functions.
 You'll want to look at what repeats in the text and what doesn't. Think about which parts repeat and which parts do not.
